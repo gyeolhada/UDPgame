@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="UDPgame:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/UDPgame</output-path>
+    <root id="archive" name="UDPgame.jar">
+      <element id="module-output" name="UDPgame" />
+    </root>
+  </artifact>
+</component>
